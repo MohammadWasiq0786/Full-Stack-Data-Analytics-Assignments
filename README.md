@@ -9,7 +9,6 @@ Here I Upload the Assignments of Full Stack Data Analytics. This course is condu
 | **Sr. No.** | **Topics**                  | **No. of Assignments** |
 |-------------|-----------------------------|------------------------|
 | **Sr. No.** | **Topics**                  | **No. of Assignments** |
-|-------------|-----------------------------|------------------------|
 | 1.          | **Introduction to Tableau** | **25 / 25**            |
 | 2.          | **Python**                  | **16 / 16**            |
 | 3.          | **Statistics**              | **1 / 1**              |
